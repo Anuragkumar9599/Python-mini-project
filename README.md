@@ -1,2 +1,2 @@
 # Python-mini-project
-My Project is Cafe Management System
+My Project is Restaurant Order Management System
